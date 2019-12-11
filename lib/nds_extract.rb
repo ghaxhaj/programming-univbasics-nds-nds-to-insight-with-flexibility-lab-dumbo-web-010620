@@ -1,7 +1,5 @@
 require 'directors_database'
 
-
-
 def flatten_a_o_a(aoa)
   result = []
   i = 0
